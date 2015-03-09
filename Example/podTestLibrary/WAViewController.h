@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WAImgCompressUtil.h"
 
 @interface WAViewController : UIViewController
 
